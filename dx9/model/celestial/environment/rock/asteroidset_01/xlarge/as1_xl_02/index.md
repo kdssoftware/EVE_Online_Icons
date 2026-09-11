@@ -1,6 +1,6 @@
 # as1_xl_02
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

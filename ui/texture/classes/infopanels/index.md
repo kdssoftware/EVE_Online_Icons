@@ -1,6 +1,6 @@
 # infopanels
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

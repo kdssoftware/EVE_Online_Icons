@@ -1,6 +1,6 @@
 # cloaked
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # solarharvester
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

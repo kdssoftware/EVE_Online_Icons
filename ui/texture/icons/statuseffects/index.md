@@ -1,6 +1,6 @@
 # statuseffects
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

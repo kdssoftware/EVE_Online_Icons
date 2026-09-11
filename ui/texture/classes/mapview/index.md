@@ -1,6 +1,6 @@
 # mapview
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # underconstruction
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

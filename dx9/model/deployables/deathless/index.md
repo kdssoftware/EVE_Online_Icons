@@ -1,6 +1,6 @@
 # deathless
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

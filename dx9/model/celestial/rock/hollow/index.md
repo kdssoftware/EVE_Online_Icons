@@ -1,6 +1,6 @@
 # hollow
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

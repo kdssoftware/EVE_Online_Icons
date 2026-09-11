@@ -1,6 +1,6 @@
 # infestor
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # silo
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

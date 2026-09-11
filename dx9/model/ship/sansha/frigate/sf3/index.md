@@ -1,6 +1,6 @@
 # sf3
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # asurface1_c_01
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

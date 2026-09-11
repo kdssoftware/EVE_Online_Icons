@@ -1,6 +1,6 @@
 # crimewatch
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

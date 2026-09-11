@@ -1,6 +1,6 @@
 # superstructure
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

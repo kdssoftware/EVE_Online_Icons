@@ -1,6 +1,6 @@
 # forceauxillary
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

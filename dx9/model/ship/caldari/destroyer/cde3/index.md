@@ -1,6 +1,6 @@
 # cde3
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

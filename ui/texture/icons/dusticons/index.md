@@ -1,6 +1,6 @@
 # dusticons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

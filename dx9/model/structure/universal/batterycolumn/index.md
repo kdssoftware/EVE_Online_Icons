@@ -1,6 +1,6 @@
 # batterycolumn
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

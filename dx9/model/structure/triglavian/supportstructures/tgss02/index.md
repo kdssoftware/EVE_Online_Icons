@@ -1,6 +1,6 @@
 # tgss02
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

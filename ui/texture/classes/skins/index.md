@@ -1,6 +1,6 @@
 # skins
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

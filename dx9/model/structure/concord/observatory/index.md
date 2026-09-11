@@ -1,6 +1,6 @@
 # observatory
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

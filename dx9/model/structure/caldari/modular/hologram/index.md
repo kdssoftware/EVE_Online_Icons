@@ -1,6 +1,6 @@
 # hologram
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

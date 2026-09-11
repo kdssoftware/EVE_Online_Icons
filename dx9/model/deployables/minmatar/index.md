@@ -1,6 +1,6 @@
 # minmatar
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

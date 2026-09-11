@@ -1,6 +1,6 @@
 # personalcyno
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # probe
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

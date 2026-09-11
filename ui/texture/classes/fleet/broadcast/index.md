@@ -1,6 +1,6 @@
 # broadcast
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

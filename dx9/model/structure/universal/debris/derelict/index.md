@@ -1,6 +1,6 @@
 # derelict
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

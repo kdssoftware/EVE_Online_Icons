@@ -1,6 +1,6 @@
 # corplogolibs
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

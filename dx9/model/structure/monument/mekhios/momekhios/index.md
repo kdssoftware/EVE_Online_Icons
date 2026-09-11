@@ -1,6 +1,6 @@
 # momekhios
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

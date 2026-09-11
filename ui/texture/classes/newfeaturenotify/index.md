@@ -1,6 +1,6 @@
 # newfeaturenotify
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

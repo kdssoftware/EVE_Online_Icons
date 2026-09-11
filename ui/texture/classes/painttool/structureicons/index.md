@@ -1,6 +1,6 @@
 # structureicons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # mineral
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # monument
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

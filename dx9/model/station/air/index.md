@@ -1,6 +1,6 @@
 # air
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

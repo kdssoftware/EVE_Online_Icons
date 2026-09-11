@@ -1,6 +1,6 @@
 # ballandpillar
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

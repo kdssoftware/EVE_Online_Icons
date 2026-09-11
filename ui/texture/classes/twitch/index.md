@@ -1,6 +1,6 @@
 # twitch
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

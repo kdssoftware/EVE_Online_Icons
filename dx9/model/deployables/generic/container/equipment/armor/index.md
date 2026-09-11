@@ -1,6 +1,6 @@
 # armor
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

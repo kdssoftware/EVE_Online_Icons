@@ -1,6 +1,6 @@
 # monetization
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

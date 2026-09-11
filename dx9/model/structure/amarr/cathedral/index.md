@@ -1,6 +1,6 @@
 # cathedral
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

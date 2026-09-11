@@ -1,6 +1,6 @@
 # enlistment
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

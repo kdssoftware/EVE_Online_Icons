@@ -1,6 +1,6 @@
 # conversationui
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

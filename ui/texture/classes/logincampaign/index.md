@@ -1,6 +1,6 @@
 # logincampaign
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # coral
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

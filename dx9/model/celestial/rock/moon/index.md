@@ -1,6 +1,6 @@
 # moon
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

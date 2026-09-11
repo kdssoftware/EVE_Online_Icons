@@ -1,6 +1,6 @@
 # tetrimon
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

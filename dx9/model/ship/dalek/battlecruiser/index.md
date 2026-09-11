@@ -1,6 +1,6 @@
 # battlecruiser
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

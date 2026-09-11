@@ -1,6 +1,6 @@
 # gs6
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

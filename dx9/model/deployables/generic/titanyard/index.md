@@ -1,6 +1,6 @@
 # titanyard
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

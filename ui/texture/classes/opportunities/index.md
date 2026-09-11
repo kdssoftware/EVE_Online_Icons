@@ -1,6 +1,6 @@
 # opportunities
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

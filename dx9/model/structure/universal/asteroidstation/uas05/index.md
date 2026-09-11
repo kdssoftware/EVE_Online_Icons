@@ -1,6 +1,6 @@
 # uas05
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

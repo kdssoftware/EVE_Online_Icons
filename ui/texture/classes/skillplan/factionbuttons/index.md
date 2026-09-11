@@ -1,6 +1,6 @@
 # factionbuttons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

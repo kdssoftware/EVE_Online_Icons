@@ -1,6 +1,6 @@
 # as2_l_uniq_01
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # extractor
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

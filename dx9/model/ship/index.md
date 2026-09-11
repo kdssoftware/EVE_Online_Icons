@@ -1,6 +1,6 @@
 # ship
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

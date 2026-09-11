@@ -1,6 +1,6 @@
 # tagicons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

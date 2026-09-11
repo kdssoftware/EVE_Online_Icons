@@ -1,6 +1,6 @@
 # dalde_08
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

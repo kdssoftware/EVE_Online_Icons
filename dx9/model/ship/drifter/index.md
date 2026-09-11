@@ -1,6 +1,6 @@
 # drifter
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

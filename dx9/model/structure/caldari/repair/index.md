@@ -1,6 +1,6 @@
 # repair
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

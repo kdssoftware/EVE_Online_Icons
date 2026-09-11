@@ -1,6 +1,6 @@
 # wgs01
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

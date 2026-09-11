@@ -1,6 +1,6 @@
 # rdl2
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

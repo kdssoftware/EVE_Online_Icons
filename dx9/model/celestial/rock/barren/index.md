@@ -1,6 +1,6 @@
 # barren
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

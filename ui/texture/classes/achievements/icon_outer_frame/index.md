@@ -1,6 +1,6 @@
 # icon_outer_frame
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # terrestrial
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

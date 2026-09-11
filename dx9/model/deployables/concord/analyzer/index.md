@@ -1,6 +1,6 @@
 # analyzer
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

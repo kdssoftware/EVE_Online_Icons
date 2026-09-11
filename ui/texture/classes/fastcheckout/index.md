@@ -1,6 +1,6 @@
 # fastcheckout
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

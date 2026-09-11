@@ -1,6 +1,6 @@
 # homestation
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

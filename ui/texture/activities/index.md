@@ -1,6 +1,6 @@
 # activities
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

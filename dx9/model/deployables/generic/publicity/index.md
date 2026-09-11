@@ -1,6 +1,6 @@
 # publicity
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

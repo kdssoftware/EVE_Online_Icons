@@ -1,6 +1,6 @@
 # rock
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

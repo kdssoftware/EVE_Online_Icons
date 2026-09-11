@@ -1,6 +1,6 @@
 # skillplan
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

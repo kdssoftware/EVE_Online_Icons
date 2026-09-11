@@ -1,6 +1,6 @@
 # missilepad
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # disruptor
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

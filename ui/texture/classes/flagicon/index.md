@@ -1,6 +1,6 @@
 # flagicon
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # ranks
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

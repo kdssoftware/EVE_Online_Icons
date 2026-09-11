@@ -1,6 +1,6 @@
 # hub
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

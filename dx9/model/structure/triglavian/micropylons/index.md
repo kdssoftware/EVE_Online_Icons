@@ -1,6 +1,6 @@
 # micropylons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

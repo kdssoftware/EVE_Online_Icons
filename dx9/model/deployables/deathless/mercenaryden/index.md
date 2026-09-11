@@ -1,6 +1,6 @@
 # mercenaryden
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

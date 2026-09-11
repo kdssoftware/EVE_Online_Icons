@@ -1,6 +1,6 @@
 # reactor
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

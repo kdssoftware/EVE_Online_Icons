@@ -1,6 +1,6 @@
 # cloud
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

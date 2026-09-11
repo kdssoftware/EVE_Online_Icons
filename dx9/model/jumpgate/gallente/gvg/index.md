@@ -1,6 +1,6 @@
 # gvg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

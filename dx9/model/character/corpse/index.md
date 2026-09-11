@@ -1,6 +1,6 @@
 # corpse
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

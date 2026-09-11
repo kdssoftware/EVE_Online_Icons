@@ -1,6 +1,6 @@
 # utilmenu
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

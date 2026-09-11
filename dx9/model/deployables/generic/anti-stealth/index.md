@@ -1,6 +1,6 @@
 # anti-stealth
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

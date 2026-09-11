@@ -1,6 +1,6 @@
 # cargorig
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

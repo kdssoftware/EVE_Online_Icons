@@ -1,6 +1,6 @@
 # harvester
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

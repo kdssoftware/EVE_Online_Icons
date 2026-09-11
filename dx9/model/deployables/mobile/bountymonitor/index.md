@@ -1,6 +1,6 @@
 # bountymonitor
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

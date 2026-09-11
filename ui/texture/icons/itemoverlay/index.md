@@ -1,6 +1,6 @@
 # itemoverlay
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

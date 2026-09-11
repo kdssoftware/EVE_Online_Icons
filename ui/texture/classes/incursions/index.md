@@ -1,6 +1,6 @@
 # incursions
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

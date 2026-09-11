@@ -1,6 +1,6 @@
 # statuedome
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

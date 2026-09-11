@@ -1,6 +1,6 @@
 # jumpbridge
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

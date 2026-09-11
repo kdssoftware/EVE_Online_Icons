@@ -1,6 +1,6 @@
 # gi3
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

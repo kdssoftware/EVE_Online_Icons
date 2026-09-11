@@ -1,6 +1,6 @@
 # bloodlineicons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

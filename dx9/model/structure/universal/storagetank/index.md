@@ -1,6 +1,6 @@
 # storagetank
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

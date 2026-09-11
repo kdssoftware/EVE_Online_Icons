@@ -1,6 +1,6 @@
 # slay
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

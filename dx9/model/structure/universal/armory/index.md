@@ -1,6 +1,6 @@
 # armory
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

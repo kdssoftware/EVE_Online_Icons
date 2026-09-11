@@ -1,6 +1,6 @@
 # campaigns
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

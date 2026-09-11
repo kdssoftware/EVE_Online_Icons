@@ -1,6 +1,6 @@
 # array
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

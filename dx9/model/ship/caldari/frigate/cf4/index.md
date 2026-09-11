@@ -1,6 +1,6 @@
 # cf4
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

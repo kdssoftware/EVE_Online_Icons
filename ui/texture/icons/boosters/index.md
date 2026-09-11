@@ -1,6 +1,6 @@
 # boosters
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

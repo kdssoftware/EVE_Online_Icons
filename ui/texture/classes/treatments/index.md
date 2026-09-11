@@ -1,6 +1,6 @@
 # treatments
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

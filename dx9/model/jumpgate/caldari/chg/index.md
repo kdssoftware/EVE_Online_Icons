@@ -1,6 +1,6 @@
 # chg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

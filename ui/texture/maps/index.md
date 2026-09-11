@@ -1,6 +1,6 @@
 # maps
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

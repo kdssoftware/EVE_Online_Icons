@@ -1,6 +1,6 @@
 # warehouse
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

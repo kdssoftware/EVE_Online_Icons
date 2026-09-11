@@ -1,6 +1,6 @@
 # planetswnd
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

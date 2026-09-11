@@ -1,6 +1,6 @@
 # pirateincursions
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

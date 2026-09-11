@@ -1,6 +1,6 @@
 # asteroid
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # helpsection
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

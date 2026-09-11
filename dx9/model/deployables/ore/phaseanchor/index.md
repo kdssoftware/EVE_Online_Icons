@@ -1,6 +1,6 @@
 # phaseanchor
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

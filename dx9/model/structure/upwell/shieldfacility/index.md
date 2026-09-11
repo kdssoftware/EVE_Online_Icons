@@ -1,6 +1,6 @@
 # shieldfacility
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

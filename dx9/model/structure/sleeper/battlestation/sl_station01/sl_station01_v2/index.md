@@ -1,6 +1,6 @@
 # sl_station01_v2
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

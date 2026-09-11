@@ -1,6 +1,6 @@
 # strategiccruiser
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

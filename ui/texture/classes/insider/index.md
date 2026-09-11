@@ -1,6 +1,6 @@
 # insider
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # arena
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

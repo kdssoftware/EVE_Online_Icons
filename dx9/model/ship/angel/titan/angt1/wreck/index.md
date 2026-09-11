@@ -1,6 +1,6 @@
 # wreck
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

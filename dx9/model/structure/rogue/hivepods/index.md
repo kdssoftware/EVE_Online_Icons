@@ -1,6 +1,6 @@
 # hivepods
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

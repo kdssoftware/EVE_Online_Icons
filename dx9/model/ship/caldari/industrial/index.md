@@ -1,6 +1,6 @@
 # industrial
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

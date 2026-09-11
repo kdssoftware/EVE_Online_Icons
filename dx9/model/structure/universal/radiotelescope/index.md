@@ -1,6 +1,6 @@
 # radiotelescope
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

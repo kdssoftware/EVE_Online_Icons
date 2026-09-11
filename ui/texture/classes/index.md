@@ -1,6 +1,6 @@
 # classes
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

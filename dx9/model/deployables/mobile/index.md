@@ -1,6 +1,6 @@
 # mobile
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

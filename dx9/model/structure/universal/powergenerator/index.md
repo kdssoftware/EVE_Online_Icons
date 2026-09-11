@@ -1,6 +1,6 @@
 # powergenerator
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

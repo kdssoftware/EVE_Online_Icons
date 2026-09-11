@@ -1,6 +1,6 @@
 # dreadnought
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

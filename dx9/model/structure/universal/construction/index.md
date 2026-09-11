@@ -1,6 +1,6 @@
 # construction
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

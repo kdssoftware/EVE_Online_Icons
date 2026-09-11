@@ -1,6 +1,6 @@
 # sl_dronebunker
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

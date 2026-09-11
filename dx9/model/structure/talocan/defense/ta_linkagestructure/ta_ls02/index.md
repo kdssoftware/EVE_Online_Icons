@@ -1,6 +1,6 @@
 # ta_ls02
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

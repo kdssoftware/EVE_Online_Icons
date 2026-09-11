@@ -1,6 +1,6 @@
 # modular
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

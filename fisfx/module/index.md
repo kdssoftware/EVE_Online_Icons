@@ -1,6 +1,6 @@
 # module
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

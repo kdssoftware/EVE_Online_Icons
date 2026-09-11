@@ -1,6 +1,6 @@
 # fitting
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

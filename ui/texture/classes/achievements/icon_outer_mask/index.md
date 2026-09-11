@@ -1,6 +1,6 @@
 # icon_outer_mask
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

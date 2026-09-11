@@ -1,6 +1,6 @@
 # milestones
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

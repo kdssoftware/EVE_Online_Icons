@@ -1,6 +1,6 @@
 # generator
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

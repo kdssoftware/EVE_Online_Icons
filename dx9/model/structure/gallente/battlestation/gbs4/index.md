@@ -1,6 +1,6 @@
 # gbs4
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

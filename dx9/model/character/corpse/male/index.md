@@ -1,6 +1,6 @@
 # male
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

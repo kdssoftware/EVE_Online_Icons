@@ -1,6 +1,6 @@
 # drone
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

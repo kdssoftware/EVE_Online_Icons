@@ -1,6 +1,6 @@
 # tgfu02
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

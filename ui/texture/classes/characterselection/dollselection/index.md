@@ -1,6 +1,6 @@
 # dollselection
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

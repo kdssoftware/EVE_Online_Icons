@@ -1,6 +1,6 @@
 # fleet
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

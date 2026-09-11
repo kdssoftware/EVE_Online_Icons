@@ -1,6 +1,6 @@
 # spaceelevator
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

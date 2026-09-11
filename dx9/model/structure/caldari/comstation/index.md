@@ -1,6 +1,6 @@
 # comstation
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

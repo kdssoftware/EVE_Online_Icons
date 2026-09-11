@@ -1,6 +1,6 @@
 # wormhole
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

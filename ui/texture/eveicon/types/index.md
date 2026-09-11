@@ -1,6 +1,6 @@
 # types
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

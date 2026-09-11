@@ -1,6 +1,6 @@
 # warpgates
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # emitterarray
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

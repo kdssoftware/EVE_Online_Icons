@@ -1,6 +1,6 @@
 # gas
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # capsule
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # tardis
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

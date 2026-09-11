@@ -1,6 +1,6 @@
 # triglavian
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

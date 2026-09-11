@@ -1,6 +1,6 @@
 # shipyard
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

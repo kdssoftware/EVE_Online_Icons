@@ -1,6 +1,6 @@
 # acath05
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

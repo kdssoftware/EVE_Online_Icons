@@ -1,6 +1,6 @@
 # gi5
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # weapon
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

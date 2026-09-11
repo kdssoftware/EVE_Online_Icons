@@ -1,6 +1,6 @@
 # go1l
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

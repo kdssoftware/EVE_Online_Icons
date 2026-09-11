@@ -1,6 +1,6 @@
 # ghg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

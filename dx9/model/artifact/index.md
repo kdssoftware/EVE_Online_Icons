@@ -1,6 +1,6 @@
 # artifact
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

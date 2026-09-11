@@ -1,6 +1,6 @@
 # shadowwar
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

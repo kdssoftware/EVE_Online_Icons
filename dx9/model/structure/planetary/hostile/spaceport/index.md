@@ -1,6 +1,6 @@
 # spaceport
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

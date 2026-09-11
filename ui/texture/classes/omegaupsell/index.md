@@ -1,6 +1,6 @@
 # omegaupsell
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

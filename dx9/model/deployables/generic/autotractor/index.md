@@ -1,6 +1,6 @@
 # autotractor
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

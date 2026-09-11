@@ -1,6 +1,6 @@
 # personalhud
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

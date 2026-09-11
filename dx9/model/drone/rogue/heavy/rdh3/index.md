@@ -1,6 +1,6 @@
 # rdh3
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

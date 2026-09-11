@@ -1,6 +1,6 @@
 # debris
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

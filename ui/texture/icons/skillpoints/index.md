@@ -1,6 +1,6 @@
 # skillpoints
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

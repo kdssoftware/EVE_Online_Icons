@@ -1,6 +1,6 @@
 # dungeonmessaging
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

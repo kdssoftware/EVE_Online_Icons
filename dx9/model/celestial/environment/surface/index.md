@@ -1,6 +1,6 @@
 # surface
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

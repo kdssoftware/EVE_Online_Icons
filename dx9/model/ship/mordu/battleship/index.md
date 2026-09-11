@@ -1,6 +1,6 @@
 # battleship
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

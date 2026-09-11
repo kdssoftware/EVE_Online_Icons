@@ -1,6 +1,6 @@
 # corps
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

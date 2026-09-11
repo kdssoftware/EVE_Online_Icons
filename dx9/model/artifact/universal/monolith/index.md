@@ -1,6 +1,6 @@
 # monolith
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

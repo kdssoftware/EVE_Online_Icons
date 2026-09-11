@@ -1,6 +1,6 @@
 # xlarge
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

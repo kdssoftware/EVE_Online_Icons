@@ -1,6 +1,6 @@
 # sailcharger
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

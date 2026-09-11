@@ -1,6 +1,6 @@
 # masteries
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

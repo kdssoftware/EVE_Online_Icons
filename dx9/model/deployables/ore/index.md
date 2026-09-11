@@ -1,6 +1,6 @@
 # ore
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

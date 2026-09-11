@@ -1,6 +1,6 @@
 # cruiser
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

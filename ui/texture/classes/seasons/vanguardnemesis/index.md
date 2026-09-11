@@ -1,6 +1,6 @@
 # vanguardnemesis
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

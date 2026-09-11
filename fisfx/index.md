@@ -1,6 +1,6 @@
 # fisfx
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

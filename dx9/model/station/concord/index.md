@@ -1,6 +1,6 @@
 # concord
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

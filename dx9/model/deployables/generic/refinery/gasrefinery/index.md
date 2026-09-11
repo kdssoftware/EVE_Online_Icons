@@ -1,6 +1,6 @@
 # gasrefinery
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

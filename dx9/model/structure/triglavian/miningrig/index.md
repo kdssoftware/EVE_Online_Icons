@@ -1,6 +1,6 @@
 # miningrig
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # tower
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

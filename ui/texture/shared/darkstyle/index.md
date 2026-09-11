@@ -1,6 +1,6 @@
 # darkstyle
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

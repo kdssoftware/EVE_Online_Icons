@@ -1,6 +1,6 @@
 # painticons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

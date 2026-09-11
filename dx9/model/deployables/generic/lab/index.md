@@ -1,6 +1,6 @@
 # lab
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

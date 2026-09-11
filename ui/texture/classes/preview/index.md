@@ -1,6 +1,6 @@
 # preview
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

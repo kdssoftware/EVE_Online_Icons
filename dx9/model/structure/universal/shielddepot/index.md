@@ -1,6 +1,6 @@
 # shielddepot
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

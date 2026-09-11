@@ -1,6 +1,6 @@
 # supportstructures
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

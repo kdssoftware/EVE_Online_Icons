@@ -1,6 +1,6 @@
 # outposts
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

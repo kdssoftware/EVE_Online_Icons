@@ -1,6 +1,6 @@
 # seasons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

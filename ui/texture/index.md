@@ -1,6 +1,6 @@
 # texture
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

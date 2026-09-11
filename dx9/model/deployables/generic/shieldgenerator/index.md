@@ -1,6 +1,6 @@
 # shieldgenerator
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

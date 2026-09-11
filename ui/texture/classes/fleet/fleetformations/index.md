@@ -1,6 +1,6 @@
 # fleetformations
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # industry
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

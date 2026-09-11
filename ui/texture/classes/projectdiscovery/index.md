@@ -1,6 +1,6 @@
 # projectdiscovery
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

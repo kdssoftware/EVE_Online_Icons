@@ -1,6 +1,6 @@
 # cryo
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

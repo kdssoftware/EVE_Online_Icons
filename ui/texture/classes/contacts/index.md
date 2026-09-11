@@ -1,6 +1,6 @@
 # contacts
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

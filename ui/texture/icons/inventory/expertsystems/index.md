@@ -1,6 +1,6 @@
 # expertsystems
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

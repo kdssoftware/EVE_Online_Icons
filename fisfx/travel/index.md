@@ -1,6 +1,6 @@
 # travel
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

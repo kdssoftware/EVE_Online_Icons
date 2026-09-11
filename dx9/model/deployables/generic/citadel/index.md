@@ -1,6 +1,6 @@
 # citadel
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

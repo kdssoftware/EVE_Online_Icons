@@ -1,6 +1,6 @@
 # sl_db01
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # soct
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

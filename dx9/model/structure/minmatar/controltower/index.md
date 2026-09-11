@@ -1,6 +1,6 @@
 # controltower
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

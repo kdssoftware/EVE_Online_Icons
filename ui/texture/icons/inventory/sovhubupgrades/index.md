@@ -1,6 +1,6 @@
 # sovhubupgrades
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

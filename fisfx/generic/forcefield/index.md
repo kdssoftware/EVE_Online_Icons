@@ -1,6 +1,6 @@
 # forcefield
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

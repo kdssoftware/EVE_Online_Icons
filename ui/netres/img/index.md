@@ -1,6 +1,6 @@
 # img
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

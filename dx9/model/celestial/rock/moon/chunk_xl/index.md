@@ -1,6 +1,6 @@
 # chunk_xl
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

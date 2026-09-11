@@ -1,6 +1,6 @@
 # conf3
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

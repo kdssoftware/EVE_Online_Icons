@@ -1,6 +1,6 @@
 # processing
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

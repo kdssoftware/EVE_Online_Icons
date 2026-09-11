@@ -1,6 +1,6 @@
 # gates
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

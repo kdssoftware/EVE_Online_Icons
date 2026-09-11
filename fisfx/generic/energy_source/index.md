@@ -1,6 +1,6 @@
 # energy_source
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

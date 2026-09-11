@@ -1,6 +1,6 @@
 # jove
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

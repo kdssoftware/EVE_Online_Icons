@@ -1,6 +1,6 @@
 # bracketborderwindow
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

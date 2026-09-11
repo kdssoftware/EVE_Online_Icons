@@ -1,6 +1,6 @@
 # arcevents
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

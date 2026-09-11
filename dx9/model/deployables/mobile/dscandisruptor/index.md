@@ -1,6 +1,6 @@
 # dscandisruptor
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

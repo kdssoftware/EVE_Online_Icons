@@ -1,6 +1,6 @@
 # destroyer
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

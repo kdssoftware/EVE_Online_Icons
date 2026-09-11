@@ -1,6 +1,6 @@
 # empireselection
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

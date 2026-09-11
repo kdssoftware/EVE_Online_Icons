@@ -1,6 +1,6 @@
 # navigationcard
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

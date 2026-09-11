@@ -1,6 +1,6 @@
 # state
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # modules
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

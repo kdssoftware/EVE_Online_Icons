@@ -1,6 +1,6 @@
 # cosmetics
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

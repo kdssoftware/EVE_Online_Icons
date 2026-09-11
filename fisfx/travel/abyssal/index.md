@@ -1,6 +1,6 @@
 # abyssal
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

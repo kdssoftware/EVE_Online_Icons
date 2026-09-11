@@ -1,6 +1,6 @@
 # claimmarker
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

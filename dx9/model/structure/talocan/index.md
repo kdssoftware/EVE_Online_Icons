@@ -1,6 +1,6 @@
 # talocan
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # clonegrade
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

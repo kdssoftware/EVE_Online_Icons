@@ -1,6 +1,6 @@
 # mekhios
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

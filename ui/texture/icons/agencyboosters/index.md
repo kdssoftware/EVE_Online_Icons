@@ -1,6 +1,6 @@
 # agencyboosters
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

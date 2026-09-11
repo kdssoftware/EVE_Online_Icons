@@ -1,6 +1,6 @@
 # jovemale
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

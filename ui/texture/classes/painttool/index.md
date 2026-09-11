@@ -1,6 +1,6 @@
 # painttool
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

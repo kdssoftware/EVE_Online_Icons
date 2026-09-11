@@ -1,6 +1,6 @@
 # shipui
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

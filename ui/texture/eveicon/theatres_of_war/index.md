@@ -1,6 +1,6 @@
 # theatres_of_war
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

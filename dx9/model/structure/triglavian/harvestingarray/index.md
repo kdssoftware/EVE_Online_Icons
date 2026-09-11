@@ -1,6 +1,6 @@
 # harvestingarray
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

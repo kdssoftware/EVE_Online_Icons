@@ -1,6 +1,6 @@
 # cs1_m_05
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

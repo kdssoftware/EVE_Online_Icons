@@ -1,6 +1,6 @@
 # model
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

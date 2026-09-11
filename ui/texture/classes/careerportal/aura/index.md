@@ -1,6 +1,6 @@
 # aura
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # frigate
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

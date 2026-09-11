@@ -1,6 +1,6 @@
 # gsmg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

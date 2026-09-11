@@ -1,6 +1,6 @@
 # exth_t3
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # rf3
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

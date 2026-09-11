@@ -1,6 +1,6 @@
 # station
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

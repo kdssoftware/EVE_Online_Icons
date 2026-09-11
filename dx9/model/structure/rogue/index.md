@@ -1,6 +1,6 @@
 # rogue
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

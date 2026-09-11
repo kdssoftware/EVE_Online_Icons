@@ -1,6 +1,6 @@
 # accelerator
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

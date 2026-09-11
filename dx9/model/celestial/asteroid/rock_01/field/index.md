@@ -1,6 +1,6 @@
 # field
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

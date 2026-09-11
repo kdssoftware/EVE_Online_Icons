@@ -1,6 +1,6 @@
 # decoyunit
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

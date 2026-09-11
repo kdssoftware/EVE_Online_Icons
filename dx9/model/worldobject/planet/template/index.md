@@ -1,6 +1,6 @@
 # template
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

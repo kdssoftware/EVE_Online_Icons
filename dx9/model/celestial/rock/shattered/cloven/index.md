@@ -1,6 +1,6 @@
 # cloven
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

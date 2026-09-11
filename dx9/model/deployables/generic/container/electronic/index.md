@@ -1,6 +1,6 @@
 # electronic
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

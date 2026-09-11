@@ -1,6 +1,6 @@
 # moonminer
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

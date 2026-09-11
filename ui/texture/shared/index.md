@@ -1,6 +1,6 @@
 # shared
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # fanfare
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

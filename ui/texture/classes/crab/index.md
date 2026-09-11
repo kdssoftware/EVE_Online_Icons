@@ -1,6 +1,6 @@
 # crab
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

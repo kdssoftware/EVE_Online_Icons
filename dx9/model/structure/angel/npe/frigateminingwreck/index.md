@@ -1,6 +1,6 @@
 # frigateminingwreck
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

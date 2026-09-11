@@ -1,6 +1,6 @@
 # windowicons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

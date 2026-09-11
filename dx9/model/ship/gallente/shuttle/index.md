@@ -1,6 +1,6 @@
 # shuttle
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

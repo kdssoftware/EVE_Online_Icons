@@ -1,6 +1,6 @@
 # contentcard
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

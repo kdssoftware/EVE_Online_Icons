@@ -1,6 +1,6 @@
 # fortificationunits
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

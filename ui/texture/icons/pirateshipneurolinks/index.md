@@ -1,6 +1,6 @@
 # pirateshipneurolinks
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

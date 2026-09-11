@@ -1,6 +1,6 @@
 # jumpgate
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

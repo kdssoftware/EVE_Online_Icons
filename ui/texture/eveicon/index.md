@@ -1,6 +1,6 @@
 # eveicon
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

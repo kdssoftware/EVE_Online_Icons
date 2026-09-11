@@ -1,6 +1,6 @@
 # explosive
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

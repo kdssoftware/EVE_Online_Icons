@@ -1,6 +1,6 @@
 # industrialarray
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

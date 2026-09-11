@@ -1,6 +1,6 @@
 # storagefacility
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

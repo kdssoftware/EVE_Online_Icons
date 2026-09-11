@@ -1,6 +1,6 @@
 # groupicons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

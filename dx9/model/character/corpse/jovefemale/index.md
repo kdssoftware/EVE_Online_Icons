@@ -1,6 +1,6 @@
 # jovefemale
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

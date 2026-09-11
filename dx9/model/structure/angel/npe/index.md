@@ -1,6 +1,6 @@
 # npe
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

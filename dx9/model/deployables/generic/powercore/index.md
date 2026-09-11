@@ -1,6 +1,6 @@
 # powercore
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # walkway
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

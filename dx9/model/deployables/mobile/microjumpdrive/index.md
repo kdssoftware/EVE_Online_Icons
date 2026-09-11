@@ -1,6 +1,6 @@
 # microjumpdrive
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

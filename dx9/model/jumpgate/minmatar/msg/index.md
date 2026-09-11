@@ -1,6 +1,6 @@
 # msg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

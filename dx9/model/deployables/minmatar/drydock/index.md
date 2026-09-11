@@ -1,6 +1,6 @@
 # drydock
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

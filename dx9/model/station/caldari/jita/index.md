@@ -1,6 +1,6 @@
 # jita
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

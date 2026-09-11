@@ -1,6 +1,6 @@
 # basepad
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

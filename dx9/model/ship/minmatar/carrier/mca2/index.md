@@ -1,6 +1,6 @@
 # mca2
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

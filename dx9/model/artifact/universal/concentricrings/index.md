@@ -1,6 +1,6 @@
 # concentricrings
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

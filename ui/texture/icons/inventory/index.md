@@ -1,6 +1,6 @@
 # inventory
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

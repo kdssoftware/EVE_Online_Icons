@@ -1,6 +1,6 @@
 # planetary
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

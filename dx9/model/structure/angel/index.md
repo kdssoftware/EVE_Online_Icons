@@ -1,6 +1,6 @@
 # angel
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

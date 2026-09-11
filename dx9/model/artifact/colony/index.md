@@ -1,6 +1,6 @@
 # colony
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

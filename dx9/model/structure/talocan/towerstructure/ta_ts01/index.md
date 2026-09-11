@@ -1,6 +1,6 @@
 # ta_ts01
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

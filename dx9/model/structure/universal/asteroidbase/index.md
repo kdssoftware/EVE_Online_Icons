@@ -1,6 +1,6 @@
 # asteroidbase
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

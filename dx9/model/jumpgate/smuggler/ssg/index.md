@@ -1,6 +1,6 @@
 # ssg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

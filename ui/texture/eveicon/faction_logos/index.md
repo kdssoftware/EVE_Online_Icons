@@ -1,6 +1,6 @@
 # faction_logos
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

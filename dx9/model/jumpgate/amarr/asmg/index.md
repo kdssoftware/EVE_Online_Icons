@@ -1,6 +1,6 @@
 # asmg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

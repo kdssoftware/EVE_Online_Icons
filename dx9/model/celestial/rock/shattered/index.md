@@ -1,6 +1,6 @@
 # shattered
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

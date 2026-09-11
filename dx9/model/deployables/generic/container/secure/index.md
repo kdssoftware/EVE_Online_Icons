@@ -1,6 +1,6 @@
 # secure
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

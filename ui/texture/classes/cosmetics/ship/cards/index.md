@@ -1,6 +1,6 @@
 # cards
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

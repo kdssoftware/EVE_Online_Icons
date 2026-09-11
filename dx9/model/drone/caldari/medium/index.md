@@ -1,6 +1,6 @@
 # medium
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

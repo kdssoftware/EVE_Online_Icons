@@ -1,6 +1,6 @@
 # engineeringstation
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

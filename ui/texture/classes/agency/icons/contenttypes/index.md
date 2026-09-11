@@ -1,6 +1,6 @@
 # contenttypes
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

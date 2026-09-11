@@ -1,6 +1,6 @@
 # larcenyunit
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # skyhook
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

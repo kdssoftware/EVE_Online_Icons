@@ -1,6 +1,6 @@
 # dailygoals
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

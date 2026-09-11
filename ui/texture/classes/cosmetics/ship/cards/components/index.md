@@ -1,6 +1,6 @@
 # components
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # medals
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

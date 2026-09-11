@@ -1,6 +1,6 @@
 # ud6
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

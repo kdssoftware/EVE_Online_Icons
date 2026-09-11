@@ -1,6 +1,6 @@
 # corpicons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

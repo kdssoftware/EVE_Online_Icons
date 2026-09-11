@@ -1,6 +1,6 @@
 # fighters
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

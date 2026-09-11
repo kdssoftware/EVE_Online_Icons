@@ -1,6 +1,6 @@
 # moonmining
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # portal
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # lensflare
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

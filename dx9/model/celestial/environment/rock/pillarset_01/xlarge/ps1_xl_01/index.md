@@ -1,6 +1,6 @@
 # ps1_xl_01
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

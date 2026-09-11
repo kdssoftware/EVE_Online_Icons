@@ -1,6 +1,6 @@
 # deployable
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

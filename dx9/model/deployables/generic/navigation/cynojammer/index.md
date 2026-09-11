@@ -1,6 +1,6 @@
 # cynojammer
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

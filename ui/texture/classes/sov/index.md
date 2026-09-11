@@ -1,6 +1,6 @@
 # sov
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

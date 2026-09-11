@@ -1,6 +1,6 @@
 # rewardtrack
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

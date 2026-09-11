@@ -1,6 +1,6 @@
 # proximitytrap
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

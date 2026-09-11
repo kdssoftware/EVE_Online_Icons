@@ -1,6 +1,6 @@
 # generic
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

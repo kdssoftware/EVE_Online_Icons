@@ -1,6 +1,6 @@
 # landingpad
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

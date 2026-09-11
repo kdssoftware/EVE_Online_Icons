@@ -1,6 +1,6 @@
 # dalek
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

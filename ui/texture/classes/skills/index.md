@@ -1,6 +1,6 @@
 # skills
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # ahg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

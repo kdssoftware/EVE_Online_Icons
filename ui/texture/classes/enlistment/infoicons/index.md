@@ -1,6 +1,6 @@
 # infoicons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

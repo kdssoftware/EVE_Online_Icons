@@ -1,6 +1,6 @@
 # pirateinsurgencies
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

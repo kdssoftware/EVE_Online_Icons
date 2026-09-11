@@ -1,6 +1,6 @@
 # frontlines
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

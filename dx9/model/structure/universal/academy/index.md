@@ -1,6 +1,6 @@
 # academy
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

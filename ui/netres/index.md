@@ -1,6 +1,6 @@
 # netres
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

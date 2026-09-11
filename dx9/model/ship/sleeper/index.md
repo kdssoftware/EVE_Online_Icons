@@ -1,6 +1,6 @@
 # sleeper
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

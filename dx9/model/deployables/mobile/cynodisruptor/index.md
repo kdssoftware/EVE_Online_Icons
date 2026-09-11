@@ -1,6 +1,6 @@
 # cynodisruptor
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

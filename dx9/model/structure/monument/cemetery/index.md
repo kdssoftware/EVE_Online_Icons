@@ -1,6 +1,6 @@
 # cemetery
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

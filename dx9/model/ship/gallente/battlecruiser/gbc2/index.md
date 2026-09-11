@@ -1,6 +1,6 @@
 # gbc2
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

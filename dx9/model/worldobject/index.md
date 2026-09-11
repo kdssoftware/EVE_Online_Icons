@@ -1,6 +1,6 @@
 # worldobject
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

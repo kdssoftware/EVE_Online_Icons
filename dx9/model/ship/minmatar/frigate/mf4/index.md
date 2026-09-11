@@ -1,6 +1,6 @@
 # mf4
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

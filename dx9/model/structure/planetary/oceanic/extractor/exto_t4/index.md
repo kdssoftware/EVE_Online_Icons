@@ -1,6 +1,6 @@
 # exto_t4
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

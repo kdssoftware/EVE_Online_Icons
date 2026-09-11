@@ -1,6 +1,6 @@
 # container
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

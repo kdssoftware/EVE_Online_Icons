@@ -1,6 +1,6 @@
 # shiptree
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

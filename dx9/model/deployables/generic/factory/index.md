@@ -1,6 +1,6 @@
 # factory
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

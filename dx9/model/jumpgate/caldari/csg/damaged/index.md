@@ -1,6 +1,6 @@
 # damaged
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

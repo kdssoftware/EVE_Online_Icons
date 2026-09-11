@@ -1,6 +1,6 @@
 # killmark_icons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

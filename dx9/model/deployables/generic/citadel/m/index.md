@@ -1,6 +1,6 @@
 # m
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # hangar
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

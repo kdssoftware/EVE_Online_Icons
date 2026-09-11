@@ -1,6 +1,6 @@
 # serviceunit
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

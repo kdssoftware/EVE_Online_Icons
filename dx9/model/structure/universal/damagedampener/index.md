@@ -1,6 +1,6 @@
 # damagedampener
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

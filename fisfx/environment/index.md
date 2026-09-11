@@ -1,6 +1,6 @@
 # environment
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

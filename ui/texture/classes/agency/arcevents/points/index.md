@@ -1,6 +1,6 @@
 # points
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # cbg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

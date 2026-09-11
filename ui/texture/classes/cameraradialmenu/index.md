@@ -1,6 +1,6 @@
 # cameraradialmenu
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

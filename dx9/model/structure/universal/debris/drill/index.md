@@ -1,6 +1,6 @@
 # drill
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

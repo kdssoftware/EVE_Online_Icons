@@ -1,6 +1,6 @@
 # sun
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

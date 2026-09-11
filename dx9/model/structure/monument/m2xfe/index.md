@@ -1,6 +1,6 @@
 # m2xfe
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # hacking
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

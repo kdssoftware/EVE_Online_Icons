@@ -1,6 +1,6 @@
 # fighter
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

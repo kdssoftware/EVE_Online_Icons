@@ -1,6 +1,6 @@
 # cynobeacon
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

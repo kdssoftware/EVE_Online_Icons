@@ -1,6 +1,6 @@
 # statsicons
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

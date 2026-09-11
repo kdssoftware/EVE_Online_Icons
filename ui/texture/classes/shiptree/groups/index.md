@@ -1,6 +1,6 @@
 # groups
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

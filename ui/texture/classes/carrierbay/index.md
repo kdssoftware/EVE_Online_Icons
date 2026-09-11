@@ -1,6 +1,6 @@
 # carrierbay
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

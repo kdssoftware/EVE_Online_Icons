@@ -1,6 +1,6 @@
 # colb1_t1_wreck
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

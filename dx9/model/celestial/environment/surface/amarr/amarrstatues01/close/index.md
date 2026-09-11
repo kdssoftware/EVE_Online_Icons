@@ -1,6 +1,6 @@
 # close
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # scramblerarray
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

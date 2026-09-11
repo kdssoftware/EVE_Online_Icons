@@ -1,6 +1,6 @@
 # dalf3
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

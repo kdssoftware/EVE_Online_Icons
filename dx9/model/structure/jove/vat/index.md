@@ -1,6 +1,6 @@
 # vat
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

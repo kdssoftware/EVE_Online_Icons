@@ -1,6 +1,6 @@
 # refinery
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

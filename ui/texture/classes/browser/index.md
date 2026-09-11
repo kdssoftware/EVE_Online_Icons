@@ -1,6 +1,6 @@
 # browser
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

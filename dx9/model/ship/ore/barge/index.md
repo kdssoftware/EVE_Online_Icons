@@ -1,6 +1,6 @@
 # barge
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

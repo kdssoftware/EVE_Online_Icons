@@ -1,6 +1,6 @@
 # nanocontainer
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

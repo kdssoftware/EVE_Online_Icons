@@ -1,6 +1,6 @@
 # conhg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

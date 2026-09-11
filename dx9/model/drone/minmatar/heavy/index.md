@@ -1,6 +1,6 @@
 # heavy
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

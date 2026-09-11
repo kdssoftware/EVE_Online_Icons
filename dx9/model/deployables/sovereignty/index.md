@@ -1,6 +1,6 @@
 # sovereignty
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

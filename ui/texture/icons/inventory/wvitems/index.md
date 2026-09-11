@@ -1,6 +1,6 @@
 # wvitems
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

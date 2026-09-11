@@ -1,6 +1,6 @@
 # air-npe
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

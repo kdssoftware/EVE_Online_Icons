@@ -1,6 +1,6 @@
 # agentinteraction
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

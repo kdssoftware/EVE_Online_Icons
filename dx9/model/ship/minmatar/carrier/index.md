@@ -1,6 +1,6 @@
 # carrier
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

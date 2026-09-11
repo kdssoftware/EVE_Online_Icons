@@ -1,6 +1,6 @@
 # billboard
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

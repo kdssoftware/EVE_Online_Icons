@@ -1,6 +1,6 @@
 # bio
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

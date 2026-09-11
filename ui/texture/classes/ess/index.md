@@ -1,6 +1,6 @@
 # ess
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

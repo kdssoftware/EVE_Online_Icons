@@ -1,6 +1,6 @@
 # beacon
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

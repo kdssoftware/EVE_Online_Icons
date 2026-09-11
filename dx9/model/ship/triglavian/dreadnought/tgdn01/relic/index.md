@@ -1,6 +1,6 @@
 # relic
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

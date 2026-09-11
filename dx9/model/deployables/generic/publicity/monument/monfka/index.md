@@ -1,6 +1,6 @@
 # monfka
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

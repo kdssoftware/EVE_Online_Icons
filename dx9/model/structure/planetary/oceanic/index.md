@@ -1,6 +1,6 @@
 # oceanic
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

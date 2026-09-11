@@ -1,6 +1,6 @@
 # caldari
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

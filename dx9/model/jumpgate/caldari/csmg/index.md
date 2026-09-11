@@ -1,6 +1,6 @@
 # csmg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

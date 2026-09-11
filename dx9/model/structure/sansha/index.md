@@ -1,6 +1,6 @@
 # sansha
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

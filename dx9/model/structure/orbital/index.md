@@ -1,6 +1,6 @@
 # orbital
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

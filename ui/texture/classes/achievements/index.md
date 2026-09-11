@@ -1,6 +1,6 @@
 # achievements
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

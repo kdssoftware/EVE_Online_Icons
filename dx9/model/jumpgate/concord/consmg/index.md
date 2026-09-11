@@ -1,6 +1,6 @@
 # consmg
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # hypernet
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

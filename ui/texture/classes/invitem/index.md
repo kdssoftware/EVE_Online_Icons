@@ -1,6 +1,6 @@
 # invitem
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

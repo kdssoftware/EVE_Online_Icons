@@ -1,6 +1,6 @@
 # probescanner
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

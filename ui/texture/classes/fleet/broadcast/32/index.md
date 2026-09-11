@@ -1,6 +1,6 @@
 # 32
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

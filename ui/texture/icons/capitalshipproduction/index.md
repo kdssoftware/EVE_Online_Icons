@@ -1,6 +1,6 @@
 # capitalshipproduction
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

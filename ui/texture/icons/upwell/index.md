@@ -1,6 +1,6 @@
 # upwell
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # astrofarm
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

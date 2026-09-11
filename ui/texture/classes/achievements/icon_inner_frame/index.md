@@ -1,6 +1,6 @@
 # icon_inner_frame
 
-[..](../index.md)
+[../](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # ms7
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

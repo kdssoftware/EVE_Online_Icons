@@ -1,6 +1,6 @@
 # equipment
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

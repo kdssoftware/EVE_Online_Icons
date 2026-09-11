@@ -1,6 +1,6 @@
 # asteroidstation
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 

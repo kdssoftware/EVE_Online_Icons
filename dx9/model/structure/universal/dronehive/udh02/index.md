@@ -1,6 +1,6 @@
 # udh02
 
-[..](../index.md)
+[../](../index.md)
 
 ## Subdirectories
 
