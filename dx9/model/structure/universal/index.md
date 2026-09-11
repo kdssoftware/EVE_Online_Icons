@@ -1,0 +1,31 @@
+# universal
+
+[⬅️ Up one directory](../index.md)
+
+## Subdirectories
+
+- [academy](academy/index.md)
+- [arena](arena/index.md)
+- [armory](armory/index.md)
+- [asteroidbase](asteroidbase/index.md)
+- [asteroidstation](asteroidstation/index.md)
+- [astrofarm](astrofarm/index.md)
+- [batterycolumn](batterycolumn/index.md)
+- [beacon](beacon/index.md)
+- [billboard](billboard/index.md)
+- [cargorig](cargorig/index.md)
+- [construction](construction/index.md)
+- [damagedampener](damagedampener/index.md)
+- [debris](debris/index.md)
+- [dronehive](dronehive/index.md)
+- [habitat](habitat/index.md)
+- [landingpad](landingpad/index.md)
+- [missilepad](missilepad/index.md)
+- [powergenerator](powergenerator/index.md)
+- [radiotelescope](radiotelescope/index.md)
+- [sailcharger](sailcharger/index.md)
+- [sensorjammer](sensorjammer/index.md)
+- [shielddepot](shielddepot/index.md)
+- [solarharvester](solarharvester/index.md)
+- [storagetank](storagetank/index.md)
+- [warningsign](warningsign/index.md)

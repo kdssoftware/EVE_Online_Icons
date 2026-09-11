@@ -1,0 +1,7 @@
+# cruiser
+
+[⬅️ Up one directory](../index.md)
+
+## Subdirectories
+
+- [morc1](morc1/index.md)

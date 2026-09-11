@@ -1,0 +1,13 @@
+# minmatar
+
+[⬅️ Up one directory](../index.md)
+
+## Subdirectories
+
+- [array](array/index.md)
+- [battlestation](battlestation/index.md)
+- [controltower](controltower/index.md)
+- [defense](defense/index.md)
+- [modular](modular/index.md)
+- [refinery](refinery/index.md)
+- [sentry](sentry/index.md)

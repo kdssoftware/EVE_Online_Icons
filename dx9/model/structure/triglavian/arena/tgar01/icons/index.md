@@ -1,0 +1,13 @@
+# icons
+
+[⬅️ Up one directory](../index.md)
+
+## Images
+
+### 24586_128.png
+
+![24586_128.png](24586_128.png)
+
+### 24586_64.png
+
+![24586_64.png](24586_64.png)
