@@ -1,6 +1,6 @@
 # msmg
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

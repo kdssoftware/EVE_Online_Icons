@@ -1,6 +1,6 @@
 # ubc01
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # ta_linkagestructure
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

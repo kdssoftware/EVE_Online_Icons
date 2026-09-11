@@ -1,6 +1,6 @@
 # asteroidset_06
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

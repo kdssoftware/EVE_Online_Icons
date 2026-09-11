@@ -1,6 +1,6 @@
 # contentcard
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Images
 

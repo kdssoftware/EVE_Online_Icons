@@ -1,6 +1,6 @@
 # tgdn01_uc
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

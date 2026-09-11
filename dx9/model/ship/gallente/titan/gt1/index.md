@@ -1,6 +1,6 @@
 # gt1
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

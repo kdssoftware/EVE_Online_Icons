@@ -1,6 +1,6 @@
 # sovhubupgrades
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Images
 

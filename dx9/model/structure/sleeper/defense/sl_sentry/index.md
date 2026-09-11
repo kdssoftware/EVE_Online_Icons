@@ -1,6 +1,6 @@
 # sl_sentry
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

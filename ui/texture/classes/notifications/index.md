@@ -1,6 +1,6 @@
 # notifications
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Images
 

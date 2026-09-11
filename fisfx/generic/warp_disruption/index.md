@@ -1,6 +1,6 @@
 # warp_disruption
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

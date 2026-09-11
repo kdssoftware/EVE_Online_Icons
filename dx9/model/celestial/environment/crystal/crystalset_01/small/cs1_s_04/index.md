@@ -1,6 +1,6 @@
 # cs1_s_04
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

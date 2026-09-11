@@ -1,6 +1,6 @@
 # corps
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Images
 

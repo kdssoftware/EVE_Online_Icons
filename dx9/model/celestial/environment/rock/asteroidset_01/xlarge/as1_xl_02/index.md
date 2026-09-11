@@ -1,6 +1,6 @@
 # as1_xl_02
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

@@ -1,6 +1,6 @@
 # corpicons
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Images
 

@@ -1,6 +1,6 @@
 # js5
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

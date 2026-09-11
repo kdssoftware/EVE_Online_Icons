@@ -1,6 +1,6 @@
 # boosters
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Images
 

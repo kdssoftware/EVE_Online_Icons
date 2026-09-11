@@ -1,6 +1,6 @@
 # tgfu02
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

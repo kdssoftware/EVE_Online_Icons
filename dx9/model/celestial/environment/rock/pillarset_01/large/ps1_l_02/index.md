@@ -1,6 +1,6 @@
 # ps1_l_02
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

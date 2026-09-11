@@ -1,6 +1,6 @@
 # dalde_04
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

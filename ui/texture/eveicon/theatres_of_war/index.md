@@ -1,6 +1,6 @@
 # theatres_of_war
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Images
 

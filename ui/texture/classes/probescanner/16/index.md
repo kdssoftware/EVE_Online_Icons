@@ -1,6 +1,6 @@
 # 16
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Images
 

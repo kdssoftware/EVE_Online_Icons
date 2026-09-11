@@ -1,6 +1,6 @@
 # icon_inner_frame
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Images
 

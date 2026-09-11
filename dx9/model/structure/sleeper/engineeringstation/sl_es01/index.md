@@ -1,6 +1,6 @@
 # sl_es01
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

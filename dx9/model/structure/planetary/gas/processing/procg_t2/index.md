@@ -1,6 +1,6 @@
 # procg_t2
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 

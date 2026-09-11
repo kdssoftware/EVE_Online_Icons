@@ -1,6 +1,6 @@
 # ta_station02_v5
 
-[⬅️ Up one directory](../index.md)
+[..](../index.md)
 
 ## Subdirectories
 
